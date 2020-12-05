@@ -24,7 +24,7 @@ function footer() {
                       <h3>Follow Us </h3>
                       <br/>
                       <p>Let us be social</p>
-    <a href="https://www.facebook.com/"><FaFacebookF className="nav-icon"/> </a>
+    <a href="https://www.facebook.com/Nawbhani-105302658108487"><FaFacebookF className="nav-icon"/> </a>
     <a href="https://www.facebook.com/"><FaInstagram className="nav-icon"/> </a>
     <a href="https://www.facebook.com/"><FaGithub className="nav-icon"/> </a>
     <a href="https://www.facebook.com/"><FaLinkedinIn className="nav-icon"/> </a>

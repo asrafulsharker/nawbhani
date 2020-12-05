@@ -10,7 +10,7 @@ export default class Home extends Component {
         <Banner 
         title="NAWBHANI" 
         >
-            <Link to="/rooms" className="btn-primary"> 
+            <Link to="/our-project" className="btn-primary"> 
             our Projects
             </Link>
         </Banner>

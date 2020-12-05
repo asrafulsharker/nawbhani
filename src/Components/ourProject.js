@@ -22,7 +22,7 @@ export default class ourProject extends Component {
     <img src={employeeImg} class="card-img-top" alt="..."/>
     <div className="card-body">
       <h5 class="card-title">Employee Management</h5>
-      <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p className="card-text">The employee management system project is based on the menu-driven program for elementary database management. It employs all the basic technique of file handling in C. It consists of following features .</p>
       
     </div>
     </Link>

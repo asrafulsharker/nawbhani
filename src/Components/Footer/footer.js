@@ -17,7 +17,7 @@ function footer() {
                       <br/>
                       <p>Stay updated with my latest trends</p>
                     <form>
-                        <input type="email" name="email" placeholder="email"/>
+                        <input type="email" name="email" placeholder="Enter email address"/>
                     </form>
                   </div>
                   <div className="col-md-4 footer-box">

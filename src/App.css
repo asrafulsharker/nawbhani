@@ -118,6 +118,7 @@ h6 {
   overflow: hidden!important;
   transition: var(--mainTransition)!important;
   list-style-type: none!important;
+  margin-top: 10px;
 }
 .nav-links a {
   display: block!important;
@@ -130,6 +131,7 @@ h6 {
   font-weight: 600!important;
   letter-spacing: var(--mainSpacing)!important;
   margin-left: 120px !important;
+  
 }
 .nav-links a:hover {
   color: var(--primaryColor) !important;

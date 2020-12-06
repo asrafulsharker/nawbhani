@@ -30,16 +30,16 @@ export default class ourProject extends Component {
                   
 
   <div className="card ">
-                   <Link to="/rooms">
+                   <Link to="/covid-19-tracker">
     <img src={covid} class="card-img-top" alt="..."/>
     <div className="card-body">
       <h5 class="card-title">Covid-19 Tracker</h5>
-      <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p className="card-text">Corona Virus is, unfortunately, spreading through the entire world. What can we, as developers, do to make the situation better? We can help to spread awareness by visualizing the data.</p>
     </div>
     </Link>
   </div>
   <div className="card " >
-                   <Link to="/rooms">
+                   <Link to="/ai-news">
     <img src={AiNews} class="card-img-top" alt="..."/>
     <div className="card-body">
       <h5 class="card-title">AI Online News</h5>

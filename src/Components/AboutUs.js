@@ -27,9 +27,9 @@ function AboutUs() {
                   <h4>Daffodil International University</h4>
                   <h4>Social Media</h4>
                   <a style={{color:"white" ,backgroundColor:"black" , padding:"5px" , borderRadius:"30% " ,marginLeft:"4px" ,border:"1.5px solid gray"}} href="https://www.facebook.com/nirob.toxic"><FaFacebookF className=''  /></a>
-                  <a style={{color:"white" ,backgroundColor:"black" , padding:"5px" , borderRadius:"30% " ,marginLeft:"4px",border:"1.5px solid gray"}} href="https://www.facebook.com/nirob.toxic"><FaInstagram className=''  /></a>
-                  <a style={{color:"white" ,backgroundColor:"black" , padding:"5px" , borderRadius:"30% " ,marginLeft:"8px",border:"1.5px solid gray"}} href="https://www.facebook.com/nirob.toxic"><FaGithub className=''  /></a>
-                  <a style={{color:"white" ,backgroundColor:"black" , padding:"5px" , borderRadius:"30% " ,marginLeft:"8px",border:"1.5px solid gray"}} href="https://www.facebook.com/nirob.toxic"><FaLinkedinIn className=''  /></a>
+                  <a style={{color:"white" ,backgroundColor:"black" , padding:"5px" , borderRadius:"30% " ,marginLeft:"4px",border:"1.5px solid gray"}} href="https://www.instagram.com/nirobasraful"><FaInstagram className=''  /></a>
+                  <a style={{color:"white" ,backgroundColor:"black" , padding:"5px" , borderRadius:"30% " ,marginLeft:"8px",border:"1.5px solid gray"}} href="https://github.com/asrafulnirob1376"><FaGithub className=''  /></a>
+                  <a style={{color:"white" ,backgroundColor:"black" , padding:"5px" , borderRadius:"30% " ,marginLeft:"8px",border:"1.5px solid gray"}} href="https://www.linkedin.com/in/asraful-sharker-nirob-0b21b71a5"><FaLinkedinIn className=''  /></a>
                 </div>
               </div>
             </div>

@@ -12,7 +12,7 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px" ,paddingTop:"20px"}}>
               <div className="row">
                 <div class="col-md-6 ">
-                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%"}}/>
+                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%",paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 " >
@@ -33,7 +33,7 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px"}}>
               <div className="row">
                 <div class="col-md-6 " >
-                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%"}}/>
+                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%" ,paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 ">
@@ -53,7 +53,7 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px"}}>
               <div className="row">
                 <div class="col-md-6 ">
-                  <img src={Img} alt="nirob" style={{height:"270px",width:"100%"}}/>
+                  <img src={Img} alt="nirob" style={{height:"270px",width:"100%" ,paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 ">
@@ -73,7 +73,7 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px"}}>
               <div className="row">
                 <div class="col-md-6 ">
-                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%"}}/>
+                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%" ,paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 ">
@@ -93,7 +93,7 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px"}}>
               <div className="row">
                 <div class="col-md-6 ">
-                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%"}}/>
+                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%" ,paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 ">

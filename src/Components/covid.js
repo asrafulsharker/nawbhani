@@ -5,7 +5,7 @@ function covid() {
         <div className="container">
             <div className="row">
                 <div className="col-md-6">
-                    <img style={{height:"300px",padding:"20px",paddingTop:"50px"}} src={Covid} alt=".."/>
+                    <img style={{height:"300px",width:"100%",padding:"20px",paddingTop:"50px"}} src={Covid} alt=".."/>
                     
                 </div>
                 <div className="col-md-6">

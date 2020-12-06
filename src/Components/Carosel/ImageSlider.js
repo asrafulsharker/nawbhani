@@ -31,7 +31,7 @@ const ImageSlider = ({ slides }) => {
             key={index}
           >
             {index === current && (
-              <img src={slide.image} alt='travel image' className='image' />
+              <img style={{width:"100%"}} src={slide.image} alt='travel image' className='image' />
             )}
           </div>
         );

@@ -10,7 +10,7 @@ function footer() {
                       <h3>About us</h3>
                       <br/>
                       <p>Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills,</p>
-                    <p>Copyright ©2020 All rights reserved |  by NWBHANI</p>
+                    <p>Copyright ©2020 All rights reserved |  by NAWBHANI</p>
                   </div>
                   <div className="col-md-4 footer-box">
                       <h3>Contact Us</h3>

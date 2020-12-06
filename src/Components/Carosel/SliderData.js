@@ -2,6 +2,7 @@ import Img from '../../Images/banner.jpg';
 
 
 export const SliderData = [
+
     {
       image:
        'https://scontent.fdac100-1.fna.fbcdn.net/v/t1.0-9/82893966_268791920766680_1307459448733696000_o.jpg?_nc_cat=102&ccb=2&_nc_sid=19026a&_nc_eui2=AeG5nDdjAYZWweO1gKMGNADOEfGIU-H4-WMR8YhT4fj5Y89qMalLJ3e4cvlQ-F0EdLRLqD1W3p5_cCioCIvuysEz&_nc_ohc=P0KpUmOtdLgAX8yrdbq&_nc_ht=scontent.fdac100-1.fna&oh=8db4ed3249367e96c76895aa211fe02b&oe=5FF0522E'

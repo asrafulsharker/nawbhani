@@ -1,6 +1,11 @@
 import React from 'react'
 import Img from '../Images/banner.jpg';
 import Img2 from '../Images/employee.jpg';
+import Nirob from '../Images/nirob1.png';
+import Payel from '../Images/payel1.png';
+import Ayan from '../Images/ayan1.png';
+import Walid from '../Images/walid1.png';
+import Hamza from '../Images/hamza1.png';
 import Carosel from './Carosel/ImageSlider'
 import { FaFacebookF, FaInstagram,FaGithub,FaLinkedinIn } from 'react-icons/fa';
 import { SliderData } from './Carosel/SliderData';
@@ -12,7 +17,7 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px" ,paddingTop:"20px"}}>
               <div className="row">
                 <div class="col-md-6 ">
-                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%",paddingBottom:"15px"}}/>
+                  <img src={Nirob} alt="nirob" style={{height:"300px" ,width:"70%",paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 " >
@@ -33,12 +38,12 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px"}}>
               <div className="row">
                 <div class="col-md-6 " >
-                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%" ,paddingBottom:"15px"}}/>
+                  <img src={Payel} alt="nirob" style={{height:"300px" ,width:"70%" ,paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 ">
                   <h2>Israt Jahan Payel</h2>
-                  <h4>ID: 201-15-3179</h4>
+                  <h4>ID: 201-15-3138</h4>
                   <h4>Department of Computer Science And Engineering</h4>
                   <h4>Daffodil International University</h4>
                   <h4>Social Media</h4>
@@ -53,7 +58,7 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px"}}>
               <div className="row">
                 <div class="col-md-6 ">
-                  <img src={Img} alt="nirob" style={{height:"270px",width:"100%" ,paddingBottom:"15px"}}/>
+                  <img src={Ayan} alt="nirob" style={{height:"300px",width:"70%" ,paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 ">
@@ -73,12 +78,12 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px"}}>
               <div className="row">
                 <div class="col-md-6 ">
-                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%" ,paddingBottom:"15px"}}/>
+                  <img src={Walid} alt="nirob" style={{height:"300px" ,width:"70%" ,paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 ">
                   <h2>Walid Bin Sadek</h2>
-                  <h4>ID: 201-15-3179</h4>
+                  <h4>ID: 201-15-3453</h4>
                   <h4>Department of Computer Science And Engineering</h4>
                   <h4>Daffodil International University</h4>
                   <h4>Social Media</h4>
@@ -93,12 +98,12 @@ function AboutUs() {
             <div className="container" style={{paddingBottom:"40px"}}>
               <div className="row">
                 <div class="col-md-6 ">
-                  <img src={Img} alt="nirob" style={{height:"270px" ,width:"100%" ,paddingBottom:"15px"}}/>
+                  <img src={Hamza} alt="nirob" style={{height:"300px" ,width:"70%" ,paddingBottom:"15px"}}/>
                 
                 </div>
                 <div class="col-md-6 ">
                   <h2>Hamza Al Razi</h2>
-                  <h4>ID: 201-15-3179</h4>
+                  <h4>ID: 201-15-3107</h4>
                   <h4>Department of Computer Science And Engineering</h4>
                   <h4>Daffodil International University</h4>
                   <h4>Social Media</h4>

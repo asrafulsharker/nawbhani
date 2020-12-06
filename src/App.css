@@ -96,7 +96,7 @@ h6 {
   width: 100%;
   padding: 0.75rem 2rem;
   background: var(--offWhite);
-  z-index: 1;
+  z-index: 100;
 }
 .nav-header {
   display: flex;

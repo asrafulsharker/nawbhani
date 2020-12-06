@@ -43,7 +43,7 @@ export default class ourProject extends Component {
     <img src={AiNews} class="card-img-top" alt="..."/>
     <div className="card-body">
       <h5 class="card-title">AI Online News</h5>
-      <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p className="card-text">AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. </p>
    
     </div>
     </Link>

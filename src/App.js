@@ -7,6 +7,7 @@ import Employee from './Components/employee';
 import Covid from './Components/covid';
 import aiNews from './Components/aiNews';
 import Footer from './Components/Footer/footer';
+import AboutUs from './Components/AboutUs';
 import './App.css';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route exact path="/employee-management" component ={Employee}/>
         <Route exact path="/covid-19-tracker" component ={Covid}/>
         <Route exact path="/ai-news" component ={aiNews}/>
+        <Route exact path="/about-us" component ={AboutUs}/>
       </Switch>
       <Footer/>
     </>

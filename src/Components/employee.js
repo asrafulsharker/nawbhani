@@ -1,6 +1,10 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom';
 import Employee  from '../Images/employee.jpg';
+import Login from '../Images/login.png';
+import Option from '../Images/option.png';
+import Add from '../Images/add.png';
+import List from '../Images/list.png';
 export default class employee extends Component {
     render() {
         return (
@@ -30,6 +34,39 @@ export default class employee extends Component {
                     <li>Delete</li>
                     <li>Log out</li>
                 </ol>
+
+                <div className="row">
+                <div className="col-md-6">
+                <h2 style={{paddingTop:"50px",borderBottom:"4px solid gray", textAlign:"center" ,paddingBottom:"5px"}}>Login From</h2>
+                   <br/>
+                   <img style={{height:"400px",width:"100%",padding:"20px"}} src={Login} alt=".."/>
+                    
+                </div>
+                <div className="col-md-6">
+                   <h2 style={{paddingTop:"50px",borderBottom:"4px solid gray", textAlign:"center" ,paddingBottom:"5px"}}>Options</h2>
+                   <br/>
+                   <img style={{height:"400px",width:"100%",padding:"20px"}} src={Option} alt=".."/>
+
+                   
+                </div>
+            </div>
+
+
+            <div className="row">
+                <div className="col-md-6">
+                <h2 style={{paddingTop:"50px",borderBottom:"4px solid gray", textAlign:"center" ,paddingBottom:"5px"}}>Add Employee Record</h2>
+                   <br/>
+                   <img style={{height:"400px",width:"100%",padding:"20px"}} src={Add} alt=".."/>
+                    
+                </div>
+                <div className="col-md-6">
+                   <h2 style={{paddingTop:"50px",borderBottom:"4px solid gray", textAlign:"center" ,paddingBottom:"5px"}}>Employee List</h2>
+                   <br/>
+                   <img style={{height:"400px",width:"100%",padding:"20px"}} src={List} alt=".."/>
+
+                   
+                </div>
+            </div>
                 </div>
                 
            

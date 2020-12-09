@@ -5,6 +5,8 @@ import Login from '../Images/login.png';
 import Option from '../Images/option.png';
 import Add from '../Images/add.png';
 import List from '../Images/list.png';
+import Modify from '../Images/Modify.png';
+import Delete from '../Images/delete.png';
 export default class employee extends Component {
     render() {
         return (
@@ -63,6 +65,24 @@ export default class employee extends Component {
                    <h2 style={{paddingTop:"50px",borderBottom:"4px solid gray", textAlign:"center" ,paddingBottom:"5px"}}>Employee List</h2>
                    <br/>
                    <img style={{height:"400px",width:"100%",padding:"20px"}} src={List} alt=".."/>
+
+                   
+                </div>
+            </div>
+
+
+            
+            <div className="row">
+                <div className="col-md-6">
+                <h2 style={{paddingTop:"50px",borderBottom:"4px solid gray", textAlign:"center" ,paddingBottom:"5px"}}>Modify Record</h2>
+                   <br/>
+                   <img style={{height:"400px",width:"100%",padding:"20px"}} src={Modify} alt=".."/>
+                    
+                </div>
+                <div className="col-md-6">
+                   <h2 style={{paddingTop:"50px",borderBottom:"4px solid gray", textAlign:"center" ,paddingBottom:"5px"}}>Delete Record</h2>
+                   <br/>
+                   <img style={{height:"400px",width:"100%",padding:"20px"}} src={Delete} alt=".."/>
 
                    
                 </div>
